@@ -1,4 +1,4 @@
-# Facial-emotion-recognition-using-Machine-learning
+# Facial-emotion-recognition-using-Deep Learning & ML
 
 ## Introduction
 
